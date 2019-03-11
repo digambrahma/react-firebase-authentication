@@ -1,5 +1,5 @@
 # react-firebase-authentication
-
+An authentication system build with react.js and firebase from google.   
 ## Built with:
 * React (create-react-app)
 * firebase
